@@ -1,5 +1,6 @@
 # To-do-List-App
-🚀 Built a Simple To-Do List App using HTML, CSS, and JavaScript!
+🚀 To-do-List-App
+ Built a Simple To-Do List App using HTML, CSS, and JavaScript!
 
 ✔ Add, complete, and delete tasks
 
